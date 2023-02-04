@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "CBT-140-Control-rescue")(type "Legacy")(uri "E:/Dropbox/PCBs/KiCAD/Projects/SPC/CBT-140-Control/CBT-140-Control-rescue.lib")(options "")(descr ""))
+  (lib (name "Dual-Mag-Camera-Control-rescue")(type "Legacy")(uri "C:/Users/raulp/Dropbox/PCBs/KiCAD/Projects/Guatek/Dual-Mag-Camera/Dual-Mag-Camera-Control/Dual-Mag-Camera-Control-rescue.lib")(options "")(descr ""))
+)

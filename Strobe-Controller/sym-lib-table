@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ProjectDevices")(type "KiCad")(uri "E:/Dropbox/PCBs/KiCAD/ProjectLibs/ProjectDevices.kicad_sym")(options "")(descr ""))
+  (lib (name "Dual-Mag-Camera-Control-rescue")(type "Legacy")(uri "E:/Dropbox/PCBs/KiCAD/Projects/Guatek/Dual-Mag-Camera/Dual-Mag-Camera-Control/Dual-Mag-Camera-Control-rescue.lib")(options "")(descr ""))
+)

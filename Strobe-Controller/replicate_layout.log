@@ -1,0 +1,82 @@
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 326:Plugin executed on: 'win32'
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 327:Plugin executed with python version: '3.9.14 (main, Sep 19 2022, 05:11:57) [MSC v.1932 64 bit (AMD64)]'
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 328:KiCad build version: (6.0.9)
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:Plugin version: 1.2.7
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 330:Frame repr: <wx._core.Frame object at 0x000002A4F1C5D430>
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 354:Preparing replicator with U1 as a reference
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:getting a list of all footprints on board
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 402:source anchor footprint is 'U1'
+Located on: ['DriverBoard', 'LEDDriver', 'FlashCircuit1']
+With filenames: ['DriverBoard.kicad_sch', 'LEDDriver.kicad_sch', 'FlashCircuit.kicad_sch']
+With sheet_id:['DriverBoard', 'LEDDriver', 'FlashCircuit1']
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 409:Corresponding footprints are 
+[('U3', ['DriverBoard', 'LEDDriver', 'FlashCircuit3']), ('U8', ['DriverBoard', 'LEDDriver', 'FlashCircuit7']), ('U21', ['DriverBoard', 'LEDDriver', 'FlashCircuit']), ('U4', ['DriverBoard', 'LEDDriver', 'FlashCircuit4']), ('U7', ['DriverBoard', 'LEDDriver', 'FlashCircuit6']), ('U5', ['DriverBoard', 'LEDDriver', 'FlashCircuit5']), ('U2', ['DriverBoard', 'LEDDriver', 'FlashCircuit2']), ('U1', ['DriverBoard', 'LEDDriver', 'FlashCircuit1'])]
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 421:Showing dialog
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:constructing a list of sheets suitable for replication on level:'FlashCircuit1', file:'FlashCircuit.kicad_sch'
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 395:suitable sheets are:[['DriverBoard', 'LEDDriver', 'FlashCircuit'], ['DriverBoard', 'LEDDriver', 'FlashCircuit2'], ['DriverBoard', 'LEDDriver', 'FlashCircuit3'], ['DriverBoard', 'LEDDriver', 'FlashCircuit4'], ['DriverBoard', 'LEDDriver', 'FlashCircuit5'], ['DriverBoard', 'LEDDriver', 'FlashCircuit6'], ['DriverBoard', 'LEDDriver', 'FlashCircuit7']]
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1322:Level selected: ['DriverBoard', 'LEDDriver', 'FlashCircuit1']
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1157:Filtering list of tracks
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 427:Toolbar position: wx.Point(1699, 117)
+12-29 22:34:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 432:Dialog position: wx.Point(1335, 117)
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:constructing a list of sheets suitable for replication on level:'FlashCircuit1', file:'FlashCircuit.kicad_sch'
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 395:suitable sheets are:[['DriverBoard', 'LEDDriver', 'FlashCircuit'], ['DriverBoard', 'LEDDriver', 'FlashCircuit2'], ['DriverBoard', 'LEDDriver', 'FlashCircuit3'], ['DriverBoard', 'LEDDriver', 'FlashCircuit4'], ['DriverBoard', 'LEDDriver', 'FlashCircuit5'], ['DriverBoard', 'LEDDriver', 'FlashCircuit6'], ['DriverBoard', 'LEDDriver', 'FlashCircuit7']]
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 188:Replicating layout
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 204:Starting replication of sheets: [['DriverBoard', 'LEDDriver', 'FlashCircuit'], ['DriverBoard', 'LEDDriver', 'FlashCircuit2'], ['DriverBoard', 'LEDDriver', 'FlashCircuit3'], ['DriverBoard', 'LEDDriver', 'FlashCircuit4'], ['DriverBoard', 'LEDDriver', 'FlashCircuit5'], ['DriverBoard', 'LEDDriver', 'FlashCircuit6'], ['DriverBoard', 'LEDDriver', 'FlashCircuit7']]
+on level: ['DriverBoard', 'LEDDriver', 'FlashCircuit1']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+12-29 22:34:30 root 266:updating GUI message: 'Preparing for replication'
+12-29 22:34:30 root 271:updating GUI with: 0
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 274:Getting the list of source footprints
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting the list of all the remaining footprints
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 291:Getting source tracks
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1157:Filtering list of tracks
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 295:Getting source zones
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 299:Getting source text items
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 303:Getting source drawing items
+12-29 22:34:30 root 266:updating GUI message: 'Replicating footprints'
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 709:Replicating footprints
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit']
+12-29 22:34:30 root 271:updating GUI with: 7
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit2']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit3']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit4']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit5']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit6']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 715:Replicating footprints on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit7']
+12-29 22:34:30 root 266:updating GUI message: 'Replicating tracks'
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 875:Replicating tracks
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit2']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit3']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit4']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit5']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit6']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 881:Replicating tracks on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit7']
+12-29 22:34:30 root 266:updating GUI message: 'Replicating zones'
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 935:Replicating zones
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit2']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit3']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit4']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit5']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit6']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 942:Replicating zones on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit7']
+12-29 22:34:30 root 266:updating GUI message: 'Replicating text'
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1013:Replicating text
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit2']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit3']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit4']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit5']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit6']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1020:Replicating text on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit7']
+12-29 22:34:30 root 266:updating GUI message: 'Replicating drawings'
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating drawings
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit2']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit3']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit4']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit5']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit6']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1060:Replicating drawings on sheet ['DriverBoard', 'LEDDriver', 'FlashCircuit7']
+12-29 22:34:30 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 204:Replication complete

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ProjectFootprints")(type "KiCad")(uri "E:/Dropbox/PCBs/KiCAD/ProjectFootprints.pretty")(options "")(descr ""))
+)
