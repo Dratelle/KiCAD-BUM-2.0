@@ -2,7 +2,7 @@
 
   (uuid 93ac15d8-5f91-4361-acff-be4992b93b51)
 
-  (paper "A4")
+  (paper "B")
 
   (title_block
     (title "Console-Controller")
@@ -809,9 +809,9 @@
     (pin "2" (uuid 703234b0-874f-4501-8d02-c2e60993ca52))
     (pin "3" (uuid b4750253-17f7-4952-a97f-0e2aa78e5d4e))
     (pin "4" (uuid 6a08e7cf-56f8-427f-a198-85368584f711))
-    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c1a))
-    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c1a))
-    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c1a))
-    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c1a))
+    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c20))
+    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c20))
+    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c20))
+    (pin "5" (uuid bf7833bb-7e83-48f3-8a5d-652e1e3c0c20))
   )
 )

@@ -778,7 +778,7 @@
     (pin "2" (uuid c679fe92-ea81-405b-be2f-be5c83e8bc51))
   )
 
-  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:Polyfuse_Small-SPC-Control-rescue") (at 275.59 110.49 270)
+  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:Polyfuse_Small-SPC-Control-rescue") (at 275.59 110.49 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 057e7f2d-1d0e-4633-b38f-d06446a7e15d)
     (property "Reference" "F1" (id 0) (at 275.59 107.95 90))
@@ -802,7 +802,7 @@
     (pin "2" (uuid 7ab81c54-77fa-4d63-9edc-a9dc3bc65b50))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:MAX3232E-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 193.04 102.87 0)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:MAX3232E-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 193.04 102.87 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 070ef13b-59dd-4c58-9330-ae18e6a77211)
     (property "Reference" "U10" (id 0) (at 182.88 121.92 0)
@@ -916,7 +916,7 @@
     (pin "2" (uuid 12764738-b248-462f-a5e5-8617079b755a))
   )
 
-  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:D_TVS-SPC-Control-rescue") (at 262.89 125.73 270)
+  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:D_TVS-SPC-Control-rescue") (at 262.89 125.73 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 45a77899-993e-4899-aeb1-407656d4b2e3)
     (property "Reference" "D82" (id 0) (at 265.43 125.73 0))
@@ -964,7 +964,7 @@
     (pin "2" (uuid ce39ceae-f1e9-43f4-a865-06ae56100f2d))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 176.53 102.87 180)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 176.53 102.87 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4c27c178-f147-44f2-8fca-3bf550eb3501)
     (property "Reference" "C15" (id 0) (at 172.72 104.14 0)
@@ -992,7 +992,7 @@
     (pin "2" (uuid 8bb96bd2-7af7-4031-9f73-44fe98fbbb97))
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 292.1 120.65 0)
+  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 292.1 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 53bea279-cdcd-43fc-820a-3add8a03fdb0)
     (property "Reference" "J9" (id 0) (at 294.64 119.3799 0)
@@ -1074,7 +1074,7 @@
     (pin "2" (uuid 190f35bf-3925-4221-8791-135d6d09eeb4))
   )
 
-  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:D_TVS-SPC-Control-rescue") (at 240.03 125.73 270)
+  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:D_TVS-SPC-Control-rescue") (at 240.03 125.73 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7b67ddea-5ec7-41af-b074-d8a7c055f978)
     (property "Reference" "D34" (id 0) (at 242.57 125.73 0))
@@ -1098,7 +1098,7 @@
     (pin "2" (uuid cd06464b-c013-436b-a1a7-713618c9b238))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 217.17 92.71 90)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 217.17 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 816b5c14-d2c6-447d-b266-fa5b1de3abfd)
     (property "Reference" "C18" (id 0) (at 215.9 88.9 0)
@@ -1126,7 +1126,7 @@
     (pin "2" (uuid 8a6a09cb-c2b1-4a78-b411-f2f4592bb1b9))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 195.58 78.74 180)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 195.58 78.74 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 83540b2b-f0b7-44b6-bbf6-5f114d3c8cae)
     (property "Reference" "C17" (id 0) (at 191.77 80.01 0)
@@ -1183,7 +1183,7 @@
     (pin "3" (uuid eff49192-7c33-401f-8829-11fd38cdcc05))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 176.53 92.71 180)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 176.53 92.71 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9d33b25d-469a-48ce-96b5-6a3fe63bd3e2)
     (property "Reference" "C14" (id 0) (at 172.72 93.98 0)
@@ -1211,7 +1211,7 @@
     (pin "2" (uuid ebaa845a-aff5-40a1-9e91-5836d5ca7d4f))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 217.17 97.79 270)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 217.17 97.79 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bae198c4-8de7-4577-8ac0-f21288d9e6fb)
     (property "Reference" "C19" (id 0) (at 218.44 101.6 0)
@@ -1239,7 +1239,7 @@
     (pin "2" (uuid 62363758-3d8f-49a8-9336-471c840e59f0))
   )
 
-  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:Polyfuse_Small-SPC-Control-rescue") (at 275.59 120.65 270)
+  (symbol (lib_id "Dual-Mag-Camera-Control-rescue:Polyfuse_Small-SPC-Control-rescue") (at 275.59 120.65 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c42b916a-f280-4ed5-a847-6a82aa5d11f2)
     (property "Reference" "F2" (id 0) (at 275.59 118.11 90))
@@ -1287,7 +1287,7 @@
     (pin "2" (uuid 8884c67d-4f0d-4c26-9e9b-d70bace4938e))
   )
 
-  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 184.15 78.74 180)
+  (symbol (lib_id "EyeRIS-LRAUV-Control-rescue:C_Small-SPC-Control-rescue-EyeRIS-LRAUV-Control-rescue") (at 184.15 78.74 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c9839b89-3a97-4435-b2a0-6a2493fed4a3)
     (property "Reference" "C16" (id 0) (at 180.34 80.01 0)

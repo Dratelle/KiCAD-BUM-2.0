@@ -438,7 +438,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "E:\\Dropbox\\PCBs\\KiCAD\\Projects\\KiCAD-BUM-2.0\\pagelayout_logo.kicad_wks",
+    "page_layout_descr_file": "E:\\Dropbox\\PCBs\\KiCAD\\Projects\\Guatek\\KiCAD-BUM-2.0\\pagelayout_logo.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -475,6 +475,18 @@
       "I2CTranslation"
     ],
     [
+      "6a89828a-46df-4c1e-ad81-dbd831e5395c",
+      "DC-Reg-i7C-12V1"
+    ],
+    [
+      "6340c4e3-628b-4fdf-9d87-451253dde7d1",
+      "DC-Reg-i7C-12V2"
+    ],
+    [
+      "78e3664b-c6cd-4b71-8327-d9af20d0cb57",
+      "DC-Reg-i7C-12V"
+    ],
+    [
       "f69bfe8c-263a-4c78-b592-8ffc73f1c423",
       "Adafruit_BME280"
     ],
@@ -491,32 +503,12 @@
       "COMMS"
     ],
     [
-      "00000000-0000-0000-0000-00005f4a88f1",
-      "CameraPower"
-    ],
-    [
       "841b60a4-3888-4360-a243-d963cd11ff0b",
       "DS3231"
     ],
     [
       "00000000-0000-0000-0000-00005f905bcb",
       "HighSideSwitch_LTC4412HV"
-    ],
-    [
-      "00000000-0000-0000-0000-00005f4b61e9",
-      "LTC4412HV"
-    ],
-    [
-      "97e9c6b3-8c17-49cc-b5fe-4905a98a54e0",
-      "Sparkfun_MAX3232"
-    ],
-    [
-      "ac55b4ba-673f-4d06-a05d-c2bcfb60e7e5",
-      "Sparkfun_MAX3233"
-    ],
-    [
-      "00000000-0000-0000-0000-00005f4c3746",
-      "sheet5F4C3746"
     ]
   ],
   "text_variables": {}

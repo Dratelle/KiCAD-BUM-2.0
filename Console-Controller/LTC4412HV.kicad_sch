@@ -2,7 +2,7 @@
 
   (uuid 2f33286e-7553-4442-acf0-23c61fcd6ab0)
 
-  (paper "A4")
+  (paper "B")
 
   (title_block
     (title "Console-Controller")
@@ -715,10 +715,10 @@
     (pin "2" (uuid 7f1efbea-2952-4635-acc5-38e9f09bec36))
     (pin "3" (uuid 62dc4d7e-efe7-45ae-9b2d-1414997db273))
     (pin "4" (uuid 307fef83-eb1f-486f-a622-9084f83d069f))
-    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d70c))
-    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d70c))
-    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d70c))
-    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d70c))
+    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d712))
+    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d712))
+    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d712))
+    (pin "5" (uuid 185a18f6-1e1f-483c-94e2-d40a3da6d712))
   )
 
   (symbol (lib_id "Device:C_Small") (at 127 101.6 0)

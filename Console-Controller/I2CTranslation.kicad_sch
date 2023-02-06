@@ -2,7 +2,7 @@
 
   (uuid 900b44df-269a-4407-9406-38177db02f5a)
 
-  (paper "A4")
+  (paper "B")
 
   (title_block
     (title "Console-Controller")

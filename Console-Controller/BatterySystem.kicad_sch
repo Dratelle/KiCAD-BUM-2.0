@@ -2,7 +2,7 @@
 
   (uuid 96c68c8c-ef5c-4e61-bcb4-9e9e158c4b59)
 
-  (paper "A4")
+  (paper "B")
 
   (title_block
     (title "Console-Controller")
@@ -1328,10 +1328,10 @@
     (pin "2" (uuid 812366f7-ef90-45c5-b815-f9cf8e4c3e19))
     (pin "3" (uuid 0b839cbd-3761-4409-a47e-7bde4dbd12f1))
     (pin "4" (uuid e31e5521-d207-4815-ae87-7a4639a96db9))
-    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d5889))
-    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d5889))
-    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d5889))
-    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d5889))
+    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d588f))
+    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d588f))
+    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d588f))
+    (pin "5" (uuid d3d6cb38-98dd-489f-823c-69094a9d588f))
   )
 
   (symbol (lib_id "BUMP-Control-rescue:Resistor_small-SPC-Control-rescue-DeathStar-rescue") (at 87.63 57.15 0) (unit 1)
